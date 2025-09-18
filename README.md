@@ -59,7 +59,6 @@ b.  KCL:
 
 
 Calculation:
-
 ![1](https://github.com/user-attachments/assets/9d5817c5-d452-401a-8c9b-3074ba09a37d)
 ![BEEE2](https://github.com/user-attachments/assets/a1352189-4a0e-42c6-af7d-2faad9b11634)
 
