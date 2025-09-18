@@ -6,7 +6,7 @@ NAME: POOJA PRIYA.B
 
 REGISTER NO: 212224230196
 
-DATE:18.09.25
+DATE:11.09.25
 
 AIM
 a.   To verify Kirchhoff’s Voltage Law (KVL) for the given circuit. 
